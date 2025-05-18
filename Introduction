@@ -6,10 +6,7 @@ TRƯỜNG ĐẠI HỌC NHA TRANG			                                             
 
 I.Giới thiệu game
 - Đây là một trò chơi giải đố lấy cảm hứng từ Sokoban kinh điển,  tuy nhiên sự thay đổi trong logic của game là đệ quy. Điều này làm cho lối chơi vốn đã đầy thử thách nay càng trở nên khó hiểu hơn. Tại đây, người chơi sẽ thao túng một thế giới hình vuông bằng cách đẩy các hộp ra vào nhau. Tuy nhiên, hãy cẩn thận để không di chuyển các hộp ở một góc và khiến chúng bị mắc kẹt. Đôi khi, các mục tiêu được đặt bên trong các phòng đệ quy này, buộc người chơi phải cân nhắc mức độ ở hai lớp.
-- Với lối chơi sáng tạo và chiều sâu chưa từng có, trò chơi này mang đến một trải nghiệm độc nhất vô nhị, nơi hộp trong lòng hộp, thế giới trong lòng thế giới trở thành một mê cung tư duy không ngừng mở rộng. Đây không chỉ là thử thách trí tuệ – mà là một chuyến du hành vào sự phức tạp và vẻ đẹp của logic đệ quy.
-
-
-
+- Với lối chơi sáng tạo và chiều sâu chưa từng có, trò chơi này mang đến một trải nghiệm độc nhất vô nhị, nơi hộp trong lòng hộp, thế giới trong lòng thế giới trở thành một mê cung tư duy không ngừng mở rộng. Đây không chỉ là thử thách trí tuệ mà là một chuyến du hành vào sự phức tạp và vẻ đẹp của logic đệ quy.
 II.Cách chơi
 1. Mục tiêu của trò chơi
 Mục tiêu của game là di chuyển các hộp và nhân vật đến đúng vị trí được đánh dấu trong mỗi màn chơi.
